@@ -1,12 +1,12 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-### Date:20-11-2025
+### Date:28-11-2025
 ### Register no:212223220082
 ## Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 ## AI Tools Required: 
-i) Claude,<br>
-ii)Lovable Ai to deploy as Full fledged App
+ChatGpt<br>
+
 
 # Explanation: 
 ## Prompt:
@@ -69,9 +69,56 @@ i)Powered by Claude AI for answering general questions<br>
 ii)Context-aware responses<br>
 ii)Falls back gracefully if API unavailable<br>
 
-## Output Image:
-<img width="1313" height="871" alt="image" src="https://github.com/user-attachments/assets/a5c293cf-a8bb-4feb-9b1f-e4c291076d92" />
 
+## PROMPT - 1:
+```
+Create a basic todo based app for organizing the daily tasks
+```
+
+
+## Output Image:
+<img width="1067" height="711" alt="image" src="https://github.com/user-attachments/assets/5bb99537-7279-4436-83ce-ecbf7680221f" />
+
+
+
+## PROMPT-2 (With enhancements):
+```
+Create a TODO based app for organizing the daily tasks which enhanced with the buttons such clear tasks,add,status of tasks,date and make a stylish interface by applying css and javascript.
+```
+
+
+## OUTPUT:
+<img width="580" height="325" alt="image" src="https://github.com/user-attachments/assets/7b0dffa4-3dcb-4b47-9070-2ed54ddfd35e" />
+
+
+
+## PROMPT-3 (More better enhancements):
+```
+Build a motivation based todo full fledged application where users feel rewarded after every time they completed tasks by increase their XP points and also track the performance of users. Show their results and performance in better visualization by using piechart,graph. Make the interface more better to look than the previous.
+```
+
+
+
+## OUTPUT:
+<img width="646" height="419" alt="image" src="https://github.com/user-attachments/assets/472517ea-ef9c-44a0-96b7-3ab2ed8de25d" />
+
+
+
+# Comparison Summary Table:
+| Criteria                  | **Prompt 1**                      | **Prompt 2**                                  | **Prompt 3**                                        |
+| ------------------------- | --------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| Core Idea                 | Simple to-do list                 | Stylish feature-rich to-do app                | Motivation-based productivity system                |
+| Features                  | Add / mark / delete tasks         | Add, delete, clear, show status, display date | XP points, streaks, rewards, performance dashboard  |
+| User Experience           | Basic                             | Improved usability + styling                  | Deep engagement + motivation psychology             |
+| UI / Design               | Minimal                           | Attractive / styled interface                 | Highly polished, visually addictive                 |
+| Tech Stack Demand         | HTML + JS basics                  | HTML + CSS + JS (interactivity)               | JS + Data structure for XP + Chart library (graphs) |
+| Visual Components         | None / simple list                | Buttons, filters, stylish task display        | Pie chart, graphs, notifications, progress rings    |
+| Difficulty Level          | Easy                              |  Medium                                       |  Advanced                                      |
+| Target Audience           | Anyone who just needs a checklist | Users who want a clean daily planning app     | Users who want productivity + gamification          |
+| Long-Term Usage Potential | Low (boring fast)                 | Medium (practical)                            | Extremely high (reward based = habit-forming)       |
+| Innovation                |  No                               |  Moderate                                     |  High                                             |
+| Engagement                | Low                               | Medium                                        | Very High                                           |
+| Motivation System         | None                              | None                                          | XP, achievements, progress visualization            |
 
 
 # Result: 
